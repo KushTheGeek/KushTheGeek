@@ -1,0 +1,51 @@
+h1{
+    font-family: 'Viga', sans-serif;
+    text-align : CENTER;
+    font-size: 100px;
+    color:#303179;
+}
+.quote{
+    font-family: 'Viga', sans-serif;
+    text-align : CENTER;
+    color:#141850;
+    margin-top: 130px;
+}
+.subtitle{
+    font-family: 'Viga', sans-serif;
+    text-align : CENTER;
+    font-size: 20px;
+    color:#ed7966;
+}
+p{
+    font-family: 'Viga', sans-serif;
+    text-align : CENTER;
+    font-size: 20px;
+    color:#ed7966;
+}
+body{
+    background-color: #fae5df;
+}
+a{
+    color: #ed7966;
+    font-family: 'Viga', sans-serif;
+    font-size: larger; 
+    padding: 6px 15px;
+    border-radius:20px;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 300px;
+}
+a:hover{
+    color:rgb(18, 13, 66);
+    font-family: 'Viga', sans-serif;
+   background:whitesmoke;
+   color : black;
+ }
+ 
+ a:link{
+ text-decoration : none;
+ }
+ 
+ a:hover{
+ text-decoration : none;
+ }
